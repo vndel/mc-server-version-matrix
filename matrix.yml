@@ -1,0 +1,11 @@
+schema_version: 1
+last_updated: 2026-10-12
+combinations:
+  - minecraft: "1.21.4"
+    server: "Paper build to be recorded"
+    proxy: "Velocity build to be recorded"
+    java: "21"
+    plugins: []
+    status: untested
+    tested_at: null
+    notes: Replace placeholders only after completing the test plan.
